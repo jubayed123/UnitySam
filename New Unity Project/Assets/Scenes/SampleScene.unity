@@ -581,7 +581,7 @@ GameObject:
   - component: {fileID: 1268383539}
   - component: {fileID: 1268383538}
   m_Layer: 0
-  m_Name: cull
+  m_Name: mull
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
